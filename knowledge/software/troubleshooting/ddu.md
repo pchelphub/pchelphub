@@ -4,6 +4,7 @@ title: Display Driver Uninstaller
 parent: Troubleshooting
 grand_parent: Software
 ---
+Written by [slydelv](https://github.com/slydelv)
 
 # DDU is the Display Driver Uninstaller from Wagnardsoft.
 
