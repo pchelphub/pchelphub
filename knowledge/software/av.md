@@ -14,5 +14,4 @@ Other positive aspects of F-Secure include its privacy features and excellent cu
 ### Heres [an article](https://medium.com/@freeger278/the-ultimate-guide-to-preventing-malware-attacks-5666a0f65150) by @anothergame_3
 
 # What to do if I have malware?
-Read the resource [here](../malware/); join [the discord](https://discord.gg/PCHH) and ask in #malware-rem
-oval
+Read the resource [here](../malware/); join [the discord](https://discord.gg/PCHH) and ask in #malware-removal
