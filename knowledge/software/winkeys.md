@@ -35,3 +35,16 @@ Written by @jheden
 * DVD Drive edition
 * Download edition
  * now this is pretty simple - one comes with an installation USB in the box, one with a DVD, and one with nothing and you have to make your own installation media (which is free)
+
+## Free alternatives
+* Whilst Windows is technically free, there are many operating systems that are free, opensource and you don't break their ToS by using them for free. Most if not all of the ones you should consider are various Linux distributions. Getting used to Linux might take some time, but depending on your usage it can result in a relatively painless experience.
+* The app support on Linux distributions can vary, but usually if some apps aren't available, there are free and often open source alternatives. For example most Steam games, ones that don't have a 3rd party launcher, do work pretty seamlessly. 
+* I personally am used to and am using Ubuntu based Linux distributions, namely Linux Mint and Linux Lite, but there is a ton of options for you to choose from, that don't even have to be based on Ubuntu. For example Valve's SteamOS is based on Arch. Besides these base pillars, there are also various Desktop Environments to customize your experience to your liking.
+
+### What you could do if you are unsure if Linux is for you
+* You can install Linux alongside Windows
+* You can install Windows and try Linux inside a virtual machine
+* you can create a bootable Linux USB and boot into a so called live session to at least check out the looks
+
+## To sum up
+The only person who can pick the right operating system for you absolutely correctly are you. Consider what you are doing, what you are willing to learn, and what trade-offs you are willing to make, and base your decision upon that. Be safe with online purchases, too.
