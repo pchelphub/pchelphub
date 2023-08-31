@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Recommend tools/software
+parent: Software
 ---
 Written by [slydelv](https://github.com/slydelv), among others. 
 
