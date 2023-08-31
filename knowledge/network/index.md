@@ -1,6 +1,6 @@
 ---
 layout: default
-name: Network
+title: Network
 has_children: true
 ---
 # Network
