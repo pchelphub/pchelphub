@@ -2,7 +2,7 @@ title: PCHH Knowledge Base
 description: Helpful knowledge about PCs. 
 theme: just-the-docs
 
-permalink: pretty
+permalink: /:title/
 
 url: https://pchelphub.github.io
 
