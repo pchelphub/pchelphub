@@ -1,6 +1,6 @@
 ---
 layout: default
-name: Recommend tools/software
+title: Recommend tools/software
 ---
 Written by [slydelv](https://github.com/slydelv), among others. 
 
