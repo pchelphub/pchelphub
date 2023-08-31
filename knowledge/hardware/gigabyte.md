@@ -18,5 +18,8 @@ All I can tell you is that if you have a thicc expensive card, maybe an anti-sag
 
 You can hear more info and some opinions here in [Louis's video](https://www.youtube.com/watch?v=JFgsL5NFn_Y)
 and for shits and giggles, here is a [repair guide](https://repair.wiki/w/Repairing_a_Cracked_Gigabyte_30_or_40_series), though I don't expect most of you to go and try to repair such cards
+
+Vertical mounting is also an option if your case supports it. 
+
 ![Gigabyte graphics card](https://cdn.discordapp.com/attachments/1120364723775483965/1120364724094247073/missing-image.png)
 [Image and Text Source](https://www.tomshardware.com/news/gigabyte-rtx-30-rtx-40-series-gpu-pcbs-are-reportedly-cracking)
