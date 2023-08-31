@@ -1,7 +1,7 @@
 ---
 layout: default
 title: How To Do A CMOS Reset
-parent: Network
+parent: Hardware
 ---
 Written by @jheden
 
