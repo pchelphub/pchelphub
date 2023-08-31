@@ -1,6 +1,6 @@
 ---
 layout: default
-name: Peripherals
+title: Peripherals
 has_children: true
 parent: Hardware
 ---
