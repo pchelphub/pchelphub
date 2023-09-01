@@ -9,6 +9,7 @@ grand_parent: Hardware
 <u><strong>ONLY GET APPLE DONGLE IF YOU'RE IN THE UNITED STATES. BUT IT'S BETTER TO GET A CX31993 DAC CHIP DONGLE LIKE MEIZU LIFEME</strong></u>
 
 <u><strong><em>The Schiit Magni + is what we would recommend if it's available for you. It's better than the Ifi zen can and air can. But Schiit isn't available for everyone, hence why they are both in this document.</em></strong></u>
+
 Prices as of Aug 31, 2023, USA.
 # Under and around $50
 
