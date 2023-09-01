@@ -3,7 +3,6 @@ layout: default
 title: Headphone recommendations
 parent: Peripherals
 grand_parent: Hardware
-nav_order: 1
 ---
 **Do take note that our recommendations are per total price to make them worth a buy. Which means that headphones that need an amp to sound as they should will have a value amp included in the price.**
 
