@@ -10,6 +10,7 @@ grand_parent: Hardware
 
 <u> ***The Schiit Magni + is what we would recommend if it's available for you. It's better then the Ifi zen can and air can. But Schiit isn't available for everyone, hence why they are both in this document.*** </u>
 # Under and around $50
+
 | Product                          | MSRP (USD) | Current Price (US) | Fit type    | Open/closed back | Notes                                                                                                                  |
 |:---------------------------------|-----------:|-------------------:|:------------|:-----------------|:-----------------------------------------------------------------------------------------------------------------------|
 | Koss KSC75                       | $24.99     | $19.99             | Supra-aural | Open             | Koss is the best way to get sound quality for a cheap price. KSC75 legitimately sounds better than AKG K361 and HD560s |
@@ -21,11 +22,13 @@ grand_parent: Hardware
 | Audio-Technica ATH-AD700X (used) | $199.95    | Varies             | Circumaural | Open             |                                                                                                                        |
 
 # Around $100
+
 | Product  | MSRP (USD) | Current Price (US) | Fit type    | Open/closed back | Notes |
 |:---------|-----------:|-------------------:|:------------|:-----------------|:----------------------------------------------------------------------------------------------------------------|
 | AKG K361 | $115.00    | $109.99            | Circumaural | Closed           | Slightly better for music than HD560S. Contact [@pelperson](https://discord.gg/PCHH) if you want an EQ for them |
 
 # Around $150
+
 | Product                                                             | MSRP (USD)                     | Current Price (US)             | Fit type    | Open/closed back | Notes                                                                                                                                                                                            |
 |:--------------------------------------------------------------------|-------------------------------:|-------------------------------:|:------------|:-----------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Sennheiser HD560S <br /> + <br />CX31993 USB-C dongle (recommended) | $229.95 <br /> + <br /> $29.00 | $141.19 <br /> + <br /> $22.99 | Circumaural | Open             | Pairing them with an iFi product that has XBASS is nice, but you could also just EQ extra bass into them. <br /> They have very harsh clamping force at first, but this gets way better overtime |
