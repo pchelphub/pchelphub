@@ -1,6 +1,7 @@
 title: PCHH Knowledge 
 description: This is the PCHH Knowledge Base - a collection of informative articles about PCs.
 theme: just-the-docs
+color_scheme: dark
 
 permalink: /:title/
 
