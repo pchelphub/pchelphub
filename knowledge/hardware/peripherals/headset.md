@@ -6,7 +6,7 @@ grand_parent: Hardware
 ---
 Prices as of Aug 31, 2023, USA.
 
-#### Products prefixed with "\*" are good options that stand out against the other items on the list. Products prefixed with "!" are the best option in that price bracket. 
+#### Everything here is "good", but Unmarked = okay; Asterisk (\*) = better than most; Bang (!) = best in price bracket, etc.
 
 # Under and around $50
 
