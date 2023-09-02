@@ -4,7 +4,7 @@ title: IEM recommendations
 parent: Peripherals
 grand_parent: Hardware
 ---
-Products prefixed with "*" are good options that stand out against the other items on the list. Products prefixed with "!" are the best bang for your buck option in that price bracket.
+#### Everything here is "good", but Unmarked = okay; Asterisk (\*) = better than most; Bang (!) = best in price bracket, etc.
 [This spreadsheet](https://docs.google.com/spreadsheets/d/1HFCuUzWdheP5qbxIJhyezJ53hvwM0wMrptVxKo49AFI/edit#gid=2029568238) was used as a source for some data.
 
 Prices as of Sep 1, 2023, USA.
