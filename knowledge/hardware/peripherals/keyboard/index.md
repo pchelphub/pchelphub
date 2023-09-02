@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Keyboard Recommendations
+title: Keyboard recommendations
 has_children: true
 parent: Peripherals
 grand_parent: Hardware
