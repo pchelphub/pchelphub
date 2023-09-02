@@ -6,7 +6,7 @@ grand_parent: Hardware
 ---
 Prices as of Aug 31, 2023, USA.
 
-#### Everything here is "good", but Unmarked = okay; Asterisk (\*) = better than most; Bang (!) = best in price bracket, etc.
+### Everything here is "good", but Unmarked = okay; Asterisk (\*) = better than most; Bang (!) = best in price bracket, etc.
 
 # Under and around $50
 
